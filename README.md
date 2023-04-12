@@ -14,7 +14,7 @@ To get started with GameHub, follow these steps:
 
 ## About the Course
 
-I have designed this course to teach you everything you need to know to become a proficient React developer. This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
+Mosh designed this course to teach you everything you need to know to become a proficient React developer. This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
 
 - Build front-end apps with React and TypeScript
 - Build reusable function components
@@ -31,3 +31,17 @@ I have designed this course to teach you everything you need to know to become a
 By the end of this course, you'll have a solid understanding of React and be able to build real-world applications with React and TypeScript.
 
 You can find the full course at: https://codewithmosh.com
+
+Tools used in building this app include:
+vite
+React
+Typescript
+Bootstrap
+Chakra
+axios
+
+the gitHub repository is located at
+https://github.com/rhwette/Game-Hub-deployed.git
+
+the deployed version can be found at
+https://game-hub-11.vercel.app
